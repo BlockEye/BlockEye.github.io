@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48dac5f1.chunk.css",
+    "main.js": "/static/js/main.6aedd3d4.chunk.js",
+    "main.js.map": "/static/js/main.6aedd3d4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c98186d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c98186d5.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.17e83158.chunk.js": "/static/js/2.17e83158.chunk.js",
+    "static/js/2.17e83158.chunk.js.map": "/static/js/2.17e83158.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e27ff3e639f058cd3c9f35fa867d663b.js": "/precache-manifest.e27ff3e639f058cd3c9f35fa867d663b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.48dac5f1.chunk.css.map": "/static/css/main.48dac5f1.chunk.css.map",
+    "static/media/AgriChain.png": "/static/media/AgriChain.ac1432a4.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Blockeye-Cropped.png": "/static/media/Blockeye-Cropped.563336a6.png",
+    "static/media/CT_img.png": "/static/media/CT_img.7fc9fbdc.png",
+    "static/media/ai-bct-2-min.png": "/static/media/ai-bct-2-min.8a3c0322.png",
+    "static/media/blockchain-min.jpg": "/static/media/blockchain-min.28b17b2a.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/humanoid-min.jpg": "/static/media/humanoid-min.4baca3e0.jpg",
+    "static/media/temp.jpg": "/static/media/temp.ac685d36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98186d5.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.17e83158.chunk.js",
+    "static/css/main.48dac5f1.chunk.css",
+    "static/js/main.6aedd3d4.chunk.js"
+  ]
+}
